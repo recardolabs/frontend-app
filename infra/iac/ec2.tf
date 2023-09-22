@@ -27,7 +27,7 @@ EOF
     git_modifiers        = "nimrodkor"
     git_org              = "bridgecrewio"
     git_repo             = "terragoat"
-    yor_trace            = "347af3cd-4f70-4632-aca3-4d5e30ffc0b6"
+    yor_trace            = "b393d57c-ce1a-4496-91af-7b032a029e7c"
   })
 }
 
